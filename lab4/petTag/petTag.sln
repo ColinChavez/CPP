@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "petTag", "petTag\petTag.vcxproj", "{C061867E-1EA0-44E4-9542-903D1F0D0AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Debug|x64.ActiveCfg = Debug|x64
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Debug|x64.Build.0 = Debug|x64
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Debug|x86.Build.0 = Debug|Win32
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Release|x64.ActiveCfg = Release|x64
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Release|x64.Build.0 = Release|x64
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Release|x86.ActiveCfg = Release|Win32
+		{C061867E-1EA0-44E4-9542-903D1F0D0AC8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C730B4-722E-4C89-B39B-BD53F978E6EE}
+	EndGlobalSection
+EndGlobal

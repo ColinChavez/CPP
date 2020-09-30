@@ -1,0 +1,6 @@
+﻿  areas.cpp
+C:\Users\Metal\SDEV-240\lab4\areas\areas\areas.cpp(14,30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Metal\SDEV-240\lab4\areas\areas\areas.cpp(41,22): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+C:\Users\Metal\SDEV-240\lab4\areas\areas\areas.cpp(56,22): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+C:\Users\Metal\SDEV-240\lab4\areas\areas\areas.cpp(73,6): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+  areas.vcxproj -> C:\Users\Metal\SDEV-240\lab4\areas\Debug\areas.exe

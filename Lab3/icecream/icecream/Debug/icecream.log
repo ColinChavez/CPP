@@ -1,0 +1,5 @@
+﻿  icecream.cpp
+C:\Users\Metal\SDEV-240\Lab3\icecream\icecream\icecream.cpp(14,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Metal\SDEV-240\Lab3\icecream\icecream\icecream.cpp(15,31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Metal\SDEV-240\Lab3\icecream\icecream\icecream.cpp(16,31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  icecream.vcxproj -> C:\Users\Metal\SDEV-240\Lab3\icecream\Debug\icecream.exe
